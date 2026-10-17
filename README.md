@@ -7,15 +7,29 @@
 
 ![Скриншот задания 1](screenshots/task1.png)
 
+![Демонстрация работы](screenshots/task1_example.png)
+
 ## Задание 2. Ступенчатый массив с правилом
 Создание ступенчатого массива, где длина каждой строки `i` равна `i * 2`, а элементы равны сумме индексов строки и столбца (`i + j`).
 
-![Скриншот задания 2](screenshots/task2.png)
+![Скриншот задания 2](screenshots/task2_1.png)
+
+![Скриншот задания 2](screenshots/task2_2.png)
+
+![Демонстрация работы](screenshots/task1_example.png)
+
+![Демонстрация работы](screenshots/task1_example1.png)
 
 ## Задание 3. Сумма элементов по столбцам
 Дан квадратный ступенчатый массив `n × n`. Для каждого столбца считается сумма чётных положительных элементов.
 
-![Скриншот задания 3](screenshots/task3.png)
+![Скриншот задания 3](screenshots/general_task0.png)
+
+![Скриншот задания 3](screenshots/general_task1.png)
+
+![Демонстрация работы](screenshots/general_task_example.png)
+
+![Демонстрация работы](screenshots/general_task_example1.png)
 
 ## Стек
 - C# (.NET 10)
