@@ -14,22 +14,22 @@
 
 ![Скриншот задания 2](screenshots/task2_1.png)
 
-![Скриншот задания 2](screenshots/task2_2.png)
+![Скриншот задания 21](screenshots/task2_2.png)
 
 ![Демонстрация работы](screenshots/task1_example.png)
 
-![Демонстрация работы](screenshots/task1_example1.png)
+![Демонстрация работы1](screenshots/task1_example1.png)
 
 ## Задание 3. Сумма элементов по столбцам
 Дан квадратный ступенчатый массив `n × n`. Для каждого столбца считается сумма чётных положительных элементов.
 
 ![Скриншот задания 3](screenshots/general_task0.png)
 
-![Скриншот задания 3](screenshots/general_task1.png)
+![Скриншот задания 31](screenshots/general_task1.png)
 
-![Демонстрация работы](screenshots/general_task_example.png)
+![Демонстрация работы2](screenshots/general_task_example.png)
 
-![Демонстрация работы](screenshots/general_task_example1.png)
+![Демонстрация работы3](screenshots/general_task_example1.png)
 
 ## Стек
 - C# (.NET 10)
